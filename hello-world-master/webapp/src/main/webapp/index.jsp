@@ -9,7 +9,7 @@ Registration Page
 <br>  
 <form>  
   
-<label> First-ame </label>         
+<label> First-Name </label>         
 <input type="text" name="firstname" size="15"/> <br> <br>  
 <label> Middlename: </label>     
 <input type="text" name="middlename" size="15"/> <br> <br>  
@@ -43,7 +43,7 @@ Gender :
 <label>   
 Phone :  
 </label>  
-<input type="text" name="country code"  value="+91" size="2"/>   
+<input type="text" name="country code"  value="+237" size="2"/>   
 <input type="text" name="phone" size="10"/> <br> <br>  
 Address  
 <br>  
